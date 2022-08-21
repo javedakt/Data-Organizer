@@ -1,0 +1,13 @@
+- Make sure python 3.10.1 is installed on your workstation and it's in classpath variables
+
+- Unzip the file to a folder
+
+- Navigate to the extracted folder in command prompt
+
+- Copy and paste the following command into command prompt
+
+python report.py TeamMap.csv ProductMaster.csv Sales.csv --team-report=TeamReport.csv --product-report=ProductReport.csv
+
+- Run it
+
+- You will see 2 output files
